@@ -39,7 +39,7 @@
   "namespace": "$.fn.fullpage",
   "devDependencies": {
     "gulp": "^3.9.0",
-    "gulp-clean-css": "^2.0.8",
+    "gulp-clean-css": "^4.3.0",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.0.4",
     "gulp-sourcemaps": "^1.6.0",
